@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/OWASP-Risk-Rating-Calculator/static/css/main.e6c13ad2.css",
-    "main.js": "/OWASP-Risk-Rating-Calculator/static/js/main.7d595d05.js",
+    "main.js": "/OWASP-Risk-Rating-Calculator/static/js/main.b076bc5e.js",
     "static/js/787.c1112931.chunk.js": "/OWASP-Risk-Rating-Calculator/static/js/787.c1112931.chunk.js",
     "index.html": "/OWASP-Risk-Rating-Calculator/index.html",
     "main.e6c13ad2.css.map": "/OWASP-Risk-Rating-Calculator/static/css/main.e6c13ad2.css.map",
-    "main.7d595d05.js.map": "/OWASP-Risk-Rating-Calculator/static/js/main.7d595d05.js.map",
+    "main.b076bc5e.js.map": "/OWASP-Risk-Rating-Calculator/static/js/main.b076bc5e.js.map",
     "787.c1112931.chunk.js.map": "/OWASP-Risk-Rating-Calculator/static/js/787.c1112931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.7d595d05.js"
+    "static/js/main.b076bc5e.js"
   ]
 }
