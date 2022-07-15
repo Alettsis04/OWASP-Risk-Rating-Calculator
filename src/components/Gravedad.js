@@ -50,7 +50,7 @@ export const Gravedad = ({ impacto, probabilidad }) => {
                     style={{ color: "white" }}
                   ></i>
                 )}
-              Crítio
+              Crítico
             </td>
           </tr>
           <tr>
